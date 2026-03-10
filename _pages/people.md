@@ -33,9 +33,10 @@ nav_order: 2
       <li>B.A. in Music Performance, Seoul National University</li>
     </ul>
     <p>
-      <a href="https://scholar.google.com/citations?user=uDnyV4sAAAAJ&hl=ko&oi=sra"><i class="ai ai-google-scholar"></i> Google Scholar</a> &nbsp;
-      <a href="https://orcid.org/0000-0002-5064-5419"><i class="ai ai-orcid"></i> ORCID</a> &nbsp;
-      <a href="https://www.researchgate.net/profile/Eunju-Jeong-2"><i class="ai ai-researchgate"></i> ResearchGate</a>
+      <a href="https://scholar.google.com/citations?user=uDnyV4sAAAAJ&hl=ko&oi=sra">Google Scholar</a> &nbsp;|&nbsp;
+      <a href="https://orcid.org/0000-0002-5064-5419">ORCID</a> &nbsp;|&nbsp;
+      <a href="https://www.researchgate.net/profile/Eunju-Jeong-2">ResearchGate</a> &nbsp;|&nbsp;
+      <a href="https://www.linkedin.com/in/eunju-jeong-b8b46517">LinkedIn</a>
     </p>
   </div>
 </div>
@@ -44,8 +45,4 @@ nav_order: 2
 
 ## Graduate Students
 
-<div class="row mt-3">
-  <div class="col-sm-12">
-    <p><em>Coming soon...</em></p>
-  </div>
-</div>
+<p><em>Coming soon...</em></p>
