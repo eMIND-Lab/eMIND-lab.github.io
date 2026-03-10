@@ -1,21 +1,21 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: <b>E</b>wha <b>M</b>usic <b>I</b>ntelligence <b>N</b>euroscience <b>D</b>esign Lab
 
 profile:
   align: right
   image: emind_logo.png
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p>Department of Music Therapy</p>
     <p>Graduate School, Ewha Womans University</p>
     <p>Seoul, Republic of Korea</p>
 
-news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: true
+selected_papers: false
+social: false
 ---
 
 ## Ewha Music Intelligence Neuroscience Design Lab
